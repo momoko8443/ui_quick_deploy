@@ -1,0 +1,11 @@
+{
+    "remote":"c9t26477.itcs.hpecorp.net",
+    "username":"idm_dev",
+    "privateKey":"/Users/huibin/.ssh/dxc.rsa",
+    "prefix":"catalog-ui",
+    "version":"1.1.0",
+    "sourcePath":"./",
+    "destinationPath":"/home/idm_dev/deploy/",
+    "serviceName":"catalog-ui",
+    "serviceRunFolder":"catalog-ui"
+}
